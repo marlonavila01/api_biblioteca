@@ -1,0 +1,15 @@
+ucacue\edu\ec\api_biblioteca\infraestructure\services\CabeceraReservaService.class
+ucacue\edu\ec\api_biblioteca\model\Libro.class
+ucacue\edu\ec\api_biblioteca\controller\AutorController.class
+ucacue\edu\ec\api_biblioteca\infraestructure\repository\EstudianteRepository.class
+ucacue\edu\ec\api_biblioteca\infraestructure\repository\AutorRepository.class
+ucacue\edu\ec\api_biblioteca\model\Docente.class
+ucacue\edu\ec\api_biblioteca\model\Persona.class
+ucacue\edu\ec\api_biblioteca\model\CabeceraReserva.class
+ucacue\edu\ec\api_biblioteca\model\Estudiante.class
+ucacue\edu\ec\api_biblioteca\infraestructure\repository\CabeceraReservaRepository.class
+ucacue\edu\ec\api_biblioteca\controller\EstudianteController.class
+ucacue\edu\ec\api_biblioteca\controller\CabeceraReservaController.class
+ucacue\edu\ec\api_biblioteca\model\DetalleReserva.class
+ucacue\edu\ec\api_biblioteca\ApiBibliotecaApplication.class
+ucacue\edu\ec\api_biblioteca\model\Autor.class
