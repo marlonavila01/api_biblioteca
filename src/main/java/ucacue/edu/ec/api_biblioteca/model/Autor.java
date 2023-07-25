@@ -1,7 +1,9 @@
 package ucacue.edu.ec.api_biblioteca.model;
 
-import jakarta.persistence.*;
+
 import lombok.*;
+
+import javax.persistence.*;
 
 @Entity
 @Table(name = "autor")
