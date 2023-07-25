@@ -1,0 +1,4 @@
+ucacue\edu\ec\api_biblioteca\controller\AutorController.class
+ucacue\edu\ec\api_biblioteca\model\Autor.class
+ucacue\edu\ec\api_biblioteca\infraestructura\repositorio\AutorRepositorio.class
+ucacue\edu\ec\api_biblioteca\ApiBibliotecaApplication.class
